@@ -1,0 +1,1 @@
+Small program to automatically change file extensions to lower case.
